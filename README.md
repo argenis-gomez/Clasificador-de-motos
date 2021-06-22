@@ -81,7 +81,7 @@ _Repitiendo este proceso, podrá clasificar todas las imágenes que desee._
   
 * Es necesario reiniciar la plataforma al culminar el proceso de clasificación y feedback.
 
-* El modelo principal tiene una precisión del 88% en imágenes nuevas.
+* El modelo principal tiene una precisión del 93% en imágenes nuevas.
 
 ---
 
