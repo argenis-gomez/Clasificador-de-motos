@@ -1,0 +1,1 @@
+clases_dict = {0: 'Cuatriciclos', 1: 'Chopper', 2: 'Cross', 3: 'Naked', 4: 'Scooters', 5: 'Enduro', 6: 'Deportivas', 7: 'Touring', 8: 'Calle'}

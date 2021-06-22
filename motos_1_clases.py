@@ -1,0 +1,1 @@
+clases_dict = {0: 'motos', 1: 'no_motos'}
